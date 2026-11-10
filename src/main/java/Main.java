@@ -35,7 +35,11 @@ public class Main {
     /* Menu de opciones disponibles */
     private static void mostrarMenu() {
         System.out.println(AMARILLO + "\n========================================");
-        System.out.println("       SISTEMA DE CONTROL ESCOLAR");
+        System.out.println("      SISTEMA DE CONTROL ESCOLAR");
+        System.out.println("      CREADO PARA LA ASIGNATURA DE ESTRUCTURA DE DATOS");
+        System.out.println("      ESTUDIANTE JOSE RAMIRO ALVAREZ FLORES");
+        System.out.println("      MATRICULA BM26520446");
+        System.out.println("      DOCENTE ARTURO CABALLERO ALTAMIRANO");
         System.out.println("========================================");
         System.out.println("1. Dar de alta una persona");
         System.out.println("2. Consultar por identificador");
@@ -232,3 +236,4 @@ public class Main {
         }
     }
 }
+
